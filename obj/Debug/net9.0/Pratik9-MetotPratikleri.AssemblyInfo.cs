@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pratik9-MetotPratikleri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ad325fa096787553029b7b45672b15fd587f177")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8f03a67291b0c3e926a0841c2d8e70e1649a024")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pratik9-MetotPratikleri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pratik9-MetotPratikleri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
