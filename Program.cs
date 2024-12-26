@@ -39,7 +39,7 @@ class Program
       Console.WriteLine("Çarpım: " + result);
     }
 
-    Console.WriteLine("--------------------");
+    Console.WriteLine("---------------------");
 
     //Parametre Alan ve Geriye Değer Döndürmeyen Metot
     //Parametre olarak isim ve soyisim bilgilerini alıp " Hoş Geldiniz {isim} {soyisim} " şeklinde ekrana basma.
